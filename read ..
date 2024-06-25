@@ -1,0 +1,38 @@
+install gitbash
+
+open your folder in vs code
+
+open gitbash in terminal
+
+now in above folder create any basic html code
+
+git init
+
+git status
+
+git add filename
+
+git status
+
+git config --global user.email "your email"
+
+git config --global user.name "your username"
+
+git commit -m "file is added"
+
+git remote and origin "link"
+
+git push -u origin master
+
+//branch creation
+git branch "branchname"
+
+//branch delete
+git branch -d "branchname"
+
+git checkout master
+//switch to master 
+
+git branch
+//* --> denotes currentbranch of github
+
